@@ -1,0 +1,1 @@
+//criar um programa para verificar se a nota 6 represnta "aprovado" ou "reprovado", usando OPERADOR TERNARIO.

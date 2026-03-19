@@ -1,0 +1,1 @@
+//criar um programa a metade de um numero.

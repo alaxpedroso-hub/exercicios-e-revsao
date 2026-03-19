@@ -1,0 +1,1 @@
+//criar um programa para verificar se um numero é par ou inpar, usando OPERADOR TENARIO.

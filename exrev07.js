@@ -1,0 +1,1 @@
+// criar um programa para calcular o triplo de um numero.
