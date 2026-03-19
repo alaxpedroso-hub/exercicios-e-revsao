@@ -1,1 +1,7 @@
-//criar um programa para verificar se um numero é mutiplo de 5.
+//Crie um programa para verificar se um número é múltiplo por 5.
+let numero = 15;
+if (numero % 5 === 0) {
+    console.log(`${numero} é múltiplo de 5.`);
+} else {
+    console.log(`${numero} não é múltiplo de 5.`);
+}
